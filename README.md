@@ -1,6 +1,6 @@
 # LOO-CV Tutorial
 
-This repository contains a Jupyter notebook tutorial demonstrating how to carry out leave-one-out cross-validation (LOO-CV) using the Pareto-smoothed importance sampling (PSIS) approximation. The tutorial uses a synthetic dataset example from Welbanks et al. 2023 and the `arviz` package [link](https://python.arviz.org/en/stable/).
+This repository contains a Jupyter notebook tutorial demonstrating how to carry out leave-one-out cross-validation (LOO-CV) using the Pareto-smoothed importance sampling (PSIS) approximation. The tutorial uses a synthetic dataset example from Welbanks et al. 2023 and the `arviz` package [(link)](https://python.arviz.org/en/stable/).
 
 ## Overview
 
